@@ -9,9 +9,9 @@
    <extension
          point="org.eclipse.ui.actionSets">
       <actionSet
-            description="This will open up the menu for the Github Copilot extension."
+          description="This will open up the menu for the GitHub Copilot extension."
             id="me.masecla.copilot.CopilotActionSet"
-            label="Github Copilot"
+          label="GitHub Copilot"
             visible="true">
             <menu
             	id="me.masecla.copilot.CopilotMenu"
